@@ -1,4 +1,4 @@
-# stock_prediction
+# Stock Prediction
 
 LSTMs are widely used for sequence prediction problems and have proven to be extremely effective. The reason they work so well is that LSTM can store past important information and forget the information that is not.
 LSTM has three gates:
