@@ -2,7 +2,7 @@
 
 ![sum](https://github.com/Nahush04/stock_prediction/blob/main/images/Price-Predictions.jpeg)
 
-In this notebook we will be looking at data from the stock market, particularly some technology stocks. We will learn how to use pandas to get stock information, visualize different aspects of it, and finally we will look at a few ways of analyzing the risk of a stock, based on its previous performance history. We will also be predicting future stock prices through a Long Short Term Memory (LSTM) method!
+In this notebook we looked at data from the stock market, particularly some technology stocks. We use pandas to get stock information, visualize different aspects of it, and finally look at a few ways of analyzing the risk of a stock, based on its previous performance history. We also predicted future stock prices through a Long Short Term Memory (LSTM) method!
 LSTMs are widely used for sequence prediction problems and have proven to be extremely effective. The reason they work so well is that LSTM can store past important information and forget the information that is not.
 LSTM has three gates:
 The input gate: The input gate adds information to the cell state,
