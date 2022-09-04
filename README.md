@@ -1,4 +1,4 @@
-# Data Project - Stock Market Analysis 
+# Stock Market Analysis 
 
 ![sum](https://github.com/Nahush04/stock_prediction/blob/main/images/Price-Predictions.jpeg)
 
